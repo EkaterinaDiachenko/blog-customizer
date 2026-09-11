@@ -3,7 +3,6 @@
 **Blog Customizer** — приложение для настройки оформления статьи. Выбирайте шрифт, цвета и ширину контента в боковой панели, применяйте изменения и подбирайте удобный для чтения вариант.
 
 ## Технологический стек:
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -11,7 +10,6 @@
 ![Webpack](https://img.shields.io/badge/Webpack-2B3A42?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
 
 ### Компоненты и инструменты разработки
-
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
@@ -19,7 +17,7 @@
 
 Компоненты представлены в Storybook. ESLint и Stylelint проверяют код и стили, Prettier отвечает за форматирование.
 
-## Основной функционал
+## Основной функционал:
 - Боковая панель настроек с открытием по кнопке и закрытием по клику вне панели.
 - Выбор типа, размера и цвета шрифта.
 - Изменение цвета фона и ширины контента.
